@@ -9,11 +9,11 @@ importlib-metadata = "6.0.0"
 importlib-resources = "5.10.0"
 ipdb = "0.13.9"
 sqlalchemy = "1.4.42"
-flask = "*"
 flask-sqlalchemy = "*"
 click = "*"
 ipython = "*"
 flask-migrate = "*"
+flask = "*"
 
 [dev-packages]
 
